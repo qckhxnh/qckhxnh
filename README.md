@@ -20,7 +20,7 @@
 
 ## Let's Connect!
 
-📧 Reach out via email at [YourEmail@example.com].
+📧 Reach out via email at kpqkhanh.flss@gmail.com.
 
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/qckhnh/) for professional networking.
 
