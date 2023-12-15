@@ -1,16 +1,27 @@
-### Hi there 👋
+# Profile README
 
-<!--
-**qckhxnh/qckhxnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm [Your Name], a sophomore at LUT University, Finland, pursuing a Bachelor's in Software and System Engineering. Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Enthusiastic about software and system engineering, I focus on programming in Python, C, Java, and SQL. My passion extends to Data Engineering, Database Administration, and visualizing insights using Power BI.
+
+## Skills
+
+🖥️ Proficient in Python, C, Java, and SQL.
+
+💽 Experienced in Power BI for data visualization.
+
+🌐 Currently exploring AWS and Azure for cloud computing.
+
+## Current Focus
+
+📚 Dedicated to advancing skills in AWS, Azure, and staying updated on the latest technologies.
+
+## Let's Connect!
+
+📧 Reach out via email at [YourEmail@example.com].
+
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/qckhnh/) for professional networking.
+
+Let's build something amazing together! 🚀
