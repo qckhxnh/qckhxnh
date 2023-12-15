@@ -16,7 +16,7 @@
 
 ## Current Focus
 
-📚 Dedicated to advancing skills in AWS, Azure, and staying updated on the latest technologies.
+📚 Dedicated to advancing skills in Data Engineering with AWS and Azure, staying updated on the latest technologies.
 
 ## Let's Connect!
 
