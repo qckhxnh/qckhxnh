@@ -1,6 +1,6 @@
 # Profile README
 
-👋 Hi there! I'm [Your Name], a sophomore at LUT University, Finland, pursuing a Bachelor's in Software and System Engineering. Welcome to my GitHub!
+👋 Hi there! I'm Khanh Kieu, a sophomore at LUT University, Finland, pursuing a Bachelor's in Software and System Engineering. Welcome to my GitHub!
 
 ## About Me
 
