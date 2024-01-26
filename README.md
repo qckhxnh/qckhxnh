@@ -13,6 +13,7 @@
 💽 Experienced in Power BI for data visualization.
 
 🌐 Currently exploring AWS and Azure for cloud computing.
+🔧 Scrum Master for the LUT University's Capstone project for Software Engineering students, collaborating with Visma.
 
 ## Current Focus
 
